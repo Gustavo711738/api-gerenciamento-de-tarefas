@@ -32,23 +32,34 @@ Gerenciamento de Tarefas
 
 Estrutura do Projeto
 
-src/
-├── controllers/
-│   ├── authController.js
-│   └── taskController.js
-├── middlewares/
-│   └── authMiddleware.js
-├── routes/
-│   ├── authRoutes.js
-│   └── taskRoutes.js
-├── app.js
-├── server.js
-└── swagger.js
-
-prisma/
-├── migrations/
-├── schema.prisma
-└── dev.db
+api-gerenciamento-de-tarefas/
+│
+├── prisma/
+│   ├── migrations/
+│   ├── dev.db
+│   └── schema.prisma
+│
+├── src/
+│   ├── controllers/
+│   │   ├── authController.js
+│   │   └── taskController.js
+│   │
+│   ├── middlewares/
+│   │   └── authMiddleware.js
+│   │
+│   ├── routes/
+│   │   ├── authRoutes.js
+│   │   └── taskRoutes.js
+│   │
+│   ├── app.js
+│   ├── server.js
+│   └── swagger.js
+│
+├── .env.example
+├── .gitignore
+├── package.json
+├── package-lock.json
+└── README.md
 
 Pré-requitos
 
