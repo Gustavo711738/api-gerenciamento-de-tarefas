@@ -73,9 +73,11 @@ Instalação
 Clone o repositório:
 
 git clone https://github.com/Gustavo711738/api-gerenciamento-de-tarefas.git
+
 Entre na pasta do projeto:
 
 cd api-tarefas
+
 Instale as dependências:
 
 npm install
