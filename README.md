@@ -15,7 +15,7 @@ Tecnologias Utilizadas
     BcryptJS
     Swagger/OpenAPI
 
-Funcianlidades
+Funcionalidades
 
 Autenticação
 
