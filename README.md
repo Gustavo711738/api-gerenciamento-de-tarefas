@@ -72,7 +72,7 @@ Instalação
 
 Clone o repositório:
 
-git clone https://github.com/SEU-USUARIO/api-tarefas.git
+git clone https://github.com/Gustavo711738/api-gerenciamento-de-tarefas.git
 Entre na pasta do projeto:
 
 cd api-tarefas
