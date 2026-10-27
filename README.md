@@ -115,7 +115,7 @@ Documentação Swagger
 
 A documentação da API pode ser acessada em:
 
-http://localhost:3000/api-docs
+http://localhost:3000/docs
 
 Autenticação
 
